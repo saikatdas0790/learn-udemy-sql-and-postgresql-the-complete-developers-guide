@@ -17,5 +17,4 @@ values ('Alex', 1),
 
 select *
 from crew_members
-    join boats on crew_members.boat_id = boats.id
-where boats.id = 1;
+where boat_id = 1;
