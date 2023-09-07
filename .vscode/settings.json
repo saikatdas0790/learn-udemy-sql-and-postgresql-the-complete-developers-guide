@@ -5,8 +5,8 @@
       "server": "localhost",
       "port": 5432,
       "driver": "PostgreSQL",
-      "name": "localhost_timescaledb",
-      "database": "postgres",
+      "name": "learn-udemy-sql-and-postgresql-the-complete-developers-guide",
+      "database": "learn_udemy_sql_and_postgresql_the_complete_developers_guide",
       "username": "postgres"
     }
   ]
